@@ -11,6 +11,9 @@
   "homepage": "https://github.com/sonarmd/telemetry#readme",
   "bugs": {
     "url": "https://github.com/sonarmd/telemetry/issues"
+  }
+  "publishConfig": {
+    "provenance": "true"
   },
   "repository": {
     "type": "git",
