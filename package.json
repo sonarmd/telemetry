@@ -1,0 +1,26 @@
+{
+  "name": "@sonarmd/telemetry",
+  "version": "0.0.1",
+  "description": "Centralized logging microservice client",
+  "keywords": [
+    "logging",
+    "microservice",
+    "sentry",
+    "sonarmd"
+  ],
+  "homepage": "https://github.com/sonarmd/infra-cdk#readme",
+  "bugs": {
+    "url": "https://github.com/sonarmd/infra-cdk/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonarmd/infra-cdk.git"
+  },
+  "license": "ISC",
+  "author": "sonarmd engineering",
+  "type": "ESM",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  }
+}
