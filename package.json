@@ -8,13 +8,13 @@
     "sentry",
     "sonarmd"
   ],
-  "homepage": "https://github.com/sonarmd/infra-cdk#readme",
+  "homepage": "https://github.com/sonarmd/telemetry#readme",
   "bugs": {
-    "url": "https://github.com/sonarmd/infra-cdk/issues"
+    "url": "https://github.com/sonarmd/telemetry/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sonarmd/infra-cdk.git"
+    "url": "git+https://github.com/sonarmd/telemetry.git"
   },
   "license": "ISC",
   "author": "sonarmd engineering",
